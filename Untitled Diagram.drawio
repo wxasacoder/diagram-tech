@@ -117,7 +117,7 @@
           <mxGeometry x="360" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fXd5p_I2Rt34cmvx9dC--55" value="查询已确认的费用流水，按照fee进行聚合进行计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="40" width="175" height="30" as="geometry" />
+          <mxGeometry x="540" y="10" width="175" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
